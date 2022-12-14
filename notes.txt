@@ -63,3 +63,11 @@ terms:
         1) git add      nb was in red
         2) git commit   -m
         3) git push
+
+    -got branch
+        1) git branch -b submit-1
+        2) git add
+        3) git commit -m 'message'
+        4) git push
+
+    git pull request
